@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749584412975",
+    "project_id": "mycafe-loli",
+    "storage_bucket": "mycafe-loli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749584412975:android:51a098a26f21e2b21af1da",
+        "android_client_info": {
+          "package_name": "com.example.coffee_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIQRHqP3hKmdRMoHVHndfks2lj_PwMMAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
